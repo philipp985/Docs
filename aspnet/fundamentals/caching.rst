@@ -15,6 +15,8 @@ In this article:
 
 `View or download sample from GitHub <https://github.com/aspnet/Docs/tree/1.0.0-beta8/aspnet/fundamentals/caching/sample>`_.
 
+.. _caching-basics:
+
 Caching Basics
 --------------
 Caching can dramatically improve the performance and scalability of ASP.NET applications, by eliminating unnecessary requests to external data sources for data that changes less frequently than it is read. ASP.NET supports several different kinds of caches, the simplest of which is represented by the `IMemoryCache <https://github.com/aspnet/Caching/blob/dev/src/Microsoft.Extensions.Caching.Abstractions/IMemoryCache.cs>`_ interface, which represents a cache stored in the memory of the local web server.
