@@ -47,7 +47,7 @@ In your ASP.NET 5 application, you can configure the specific implementation of 
 
 Using a Redis Distributed Cache
 -------------------------------
-Redis
+`Redis <redis.io>`_ is an open source in-memory data store, which is often used as a distributed cache. In addition to downloading and configuring it locally, you can also easily configure an `Azure Redis Cache <https://azure.microsoft.com/en-us/services/cache/>`_ for your Azure-hosted ASP.NET 5 applications.a
 
 Using a SQL Server Distributed Cache
 -------------------------------
